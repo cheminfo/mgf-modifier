@@ -4,7 +4,7 @@
 [![build status][ci-image]][ci-url]
 [![npm download][download-image]][download-url]
 
-.
+Modify MGF file to add idCode, idCodeNoStereo and SMILES.
 
 ## Installation
 

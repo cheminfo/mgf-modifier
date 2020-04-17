@@ -1,7 +1,7 @@
 {
   "name": "mgf-modifier",
   "version": "0.0.0",
-  "description": "",
+  "description": "Modify MGF file to add idCode, idCodeNoStereo and SMILES.",
   "main": "lib/index.js",
   "module": "src/index.js",
   "files": [
@@ -48,5 +48,9 @@
     "jest": "^25.3.0",
     "prettier": "^2.0.4",
     "rollup": "^2.6.1"
+  },
+  "dependencies": {
+    "mgf-generator": "^0.1.1",
+    "mgf-parser": "^0.3.0"
   }
 }
